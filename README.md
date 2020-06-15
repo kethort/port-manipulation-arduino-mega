@@ -11,6 +11,8 @@ It uses the serial monitor to accept commands to demonstrate different ways to m
 
 1 LED wired to pin 30 
 
-
+<p align="center">
+  <img src="/img/wiring.jpg" width="500"/>
+</p>
 
 
