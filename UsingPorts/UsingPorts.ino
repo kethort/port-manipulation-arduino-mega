@@ -1,3 +1,11 @@
+/*
+-----------------------------------------------------------------------------
+-- Name:        UsingPorts
+-- Author:      Kenneth Orton
+-- Created:     06/14/2020
+-----------------------------------------------------------------------------
+ */
+
 /* 
  *  Visual representation of the ports and respective 
  *  pins for the Arduino Mega 
