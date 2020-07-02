@@ -7,12 +7,4 @@ This is a demonstration of how to use PORTS to switch on/off outputs on an Ardui
 The program uses the serial monitor to accept commands which demonstrate different ways to manipulate the outputs.
 
 ### Wiring
-8 LED's wired to pins 29-22 from left to right
-
-1 LED wired to pin 30 
-
-<p align="center">
-  <img src="/img/wiring.jpg" width="500"/>
-</p>
-
-
+9 LED's wired to pins 30-22 from left to right
